@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[My son, Bailey]]></title>
         <description><![CDATA[My son, Bailey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/baileys-mom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 05:34:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 05:38:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baileys-mom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My youngest]]></title>
             <description><![CDATA[<p>Bailey is the coolest kid ever. He likes Minecraft, Star Wars and Five Nights at Freddies.</p>]]></description>
-            <link>undefinedmy-youngest/index.html</link>
+            <link>https://thegrid.ai/baileys-mom/my-youngest/index.html</link>
             <guid isPermaLink="false">b0663c78-33f8-43bb-83ad-7dd9cb72b91c</guid>
-            <pubDate>Sun, 15 May 2016 05:34:14 GMT</pubDate>
+            <pubDate>Sun, 15 May 2016 05:36:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
