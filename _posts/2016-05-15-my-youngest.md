@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Bailey is the coolest kid ever. He likes Minecraft, Star Wars and Five Nights at Freddies.'
-datePublished: '2016-05-15T05:36:53.202Z'
-dateModified: '2016-05-15T05:36:47.886Z'
+datePublished: '2016-05-15T05:58:14.483Z'
+dateModified: '2016-05-15T05:37:30.473Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-my-youngest.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: my-youngest/index.html
 _type: Article
 
