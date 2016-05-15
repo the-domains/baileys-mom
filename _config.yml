@@ -1,6 +1,6 @@
 name: baileys mom
 favicon: null
-layout_spectrum: 0.25253
+layout_spectrum: 0
 typography_spectrum: 0.14983
 title: 'My son, Bailey'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c33722'
     - '#a49f99'
     - '#4e5351'
-  brandStrength: 0.3125
+  brandStrength: 0.5
   lightness: 0.2850640304386616
   saturation: 0.6875
   rhythmicContrast: 0.25
